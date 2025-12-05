@@ -6,7 +6,7 @@ This repository provides the source code and experimental data for the paper
 
 Title: A General Boundary Expansion Local Search Framework for Enhancing Diversity of MOEAs in Multi-Objective Combinatorial Optimization (under review).
 
-Author: Xuepeng Ren, Shengxiang Yang Fellow, IEEE, Guangming Dai, Maocai Wang
+Author: Xuepeng Ren, Shengxiang Yang Fellow, IEEE(Corresponding author), Guangming Dai, Maocai Wang
 
 Requirements
 
